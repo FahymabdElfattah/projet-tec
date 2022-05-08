@@ -1,1 +1,1 @@
-# projet-tec
+# ProjetTec
